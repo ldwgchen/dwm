@@ -28,6 +28,7 @@ static const Rule rules[] = {
 	 */
 	/* class, instance, title, tags, mask, isfloating, monitor */
 	{ "Firefox", NULL, NULL, 1 << 8, 0, -1 },
+	{ "mercury-default", NULL, NULL, 1 << 8, 0, -1 },
 	{ "Zathura", NULL, NULL, 1, 0, -1 },
 	{ "lf", NULL, NULL, 1 << 7, 0, -1 },
 };
